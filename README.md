@@ -64,6 +64,9 @@ As a data analyst for this project, I analyzed churn-related data to identify ch
 
 
 ---
+<img src="Screenshots/Dashboard.png" alt="Dashboard Preview" width="1000"/>
+
+
 
 ## Executive Summary
 
