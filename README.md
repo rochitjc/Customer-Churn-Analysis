@@ -198,7 +198,10 @@ Based on the insights and findings above, we recommend the following actions for
 
 ## Dashboard Preview
 
-*(Add screenshots or a link to an embedded dashboard here)*
+--- 
+
+<img src="Screenshots/Dashboard.png" alt="Dashboard Preview" width="1000"/>
+
 
 ---
 
