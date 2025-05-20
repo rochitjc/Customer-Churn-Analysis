@@ -20,6 +20,7 @@ As a data analyst for this project, I analyzed churn-related data to identify ch
   - `prod_Churn` (core customer data)
   - `mapping_TenureGrp` (tenure buckets)
   - `prod_Services` (service adoption matrix)
+  - `tbl_measures` (All the DAX Formulas are saved here)
 
 ### Tools Used
 
@@ -60,9 +61,7 @@ As a data analyst for this project, I analyzed churn-related data to identify ch
 | mapping_TenureGrp  | Tenure group binning reference              | Tenure, Tenure_Group                        |
 | tbl_measures       | All KPI and DAX calculations                | Churn Rate, Revenue at Risk, etc.           |
 
-### Entity Relationships
 
-- `prod_Churn` ⟷ `prod_Services` via Customer ID
 
 ---
 
