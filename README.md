@@ -205,20 +205,4 @@ Based on the insights and findings above, we recommend the following actions for
 
 ---
 
-## Supporting Resources
-
-- SQL queries used to inspect and clean the data for this analysis can be found here: [link]
-- Targeted SQL queries regarding various business questions can be found here: [link]
-- An interactive Tableau dashboard used to report and explore sales trends can be found here: [link]
-
----
-
-## Suggestions to Make It Even More Professional & Insightful
-
-- **Add a Table of Contents** at the top for easier navigation.
-- **Include a dashboard screenshot or KPI card image** near the top for instant context.
-- **Clarify data source and period** (e.g., “Simulated data, 2021–2023”).
-- **Add a “How to Use This Repo” section** for other analysts or recruiters.
-- **Make recommendations measurable** (e.g., “Reduce churn in Month-to-Month contracts by 5 percentage points in 6 months”).
-- **Consistent heading levels** and bullet formatting throughout.
 
